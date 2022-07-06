@@ -20,5 +20,10 @@ namespace WindowsFormsApp4
             //class1.privateState = 2;
             class1.ChangePrivateState(3);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            /*12132123132132132*/
+        }
     }
 }
