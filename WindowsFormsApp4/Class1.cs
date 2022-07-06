@@ -12,7 +12,7 @@ namespace WindowsFormsApp4
         private int privateState;
         public Class1(int state)
         {
-            PublicState = state;
+            PublicState = state;///
             if(PublicState == 0)
             {
                 Console.WriteLine($"state={PublicState}");
